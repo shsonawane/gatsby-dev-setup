@@ -16,14 +16,12 @@
     ```
 
 Navigate into your new site’s directory and .
-
     ```shell
     npm install
     ```
 
 # Develop
 Navigate into your new site’s directory and .
-
     ```shell
     npm start
     ```
@@ -36,7 +34,6 @@ Open the repository in your code editor of choice and edit `src/pages/index.js`.
 
 # Build
 Navigate into your new site’s directory and .
-
     ```shell
     npm run build
     ```

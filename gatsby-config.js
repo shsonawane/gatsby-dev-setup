@@ -3,7 +3,7 @@ module.exports = {
   siteMetadata: {
     title: `gatsby-dev-setup`,
     description: `Setup your gatsby project.`,
-    author: `sokrati`
+    author: `shsonawane`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

@@ -1,3 +1,6 @@
+# Gatsby Dev Setup
+Setup up gatsby.js project to start development with minimal configuration.
+
 # Setup
 
 1. Install NPM
